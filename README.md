@@ -1,4 +1,4 @@
-# Hi there, I'm Artem Baidachenko 👋
+# Hi, My name is Artem Baidachenko 👋
 ### Frontend Developer | HTML5, CSS3, SCSS, JavaScript, 
 
 Frontend Developer with **3+ years of commercial experience** in website development. I specialize in creating responsive, cross-browser interfaces based on designs. I have worked with modern build tools such as Gulp and Vite, I also have experience with WordPress.
@@ -34,7 +34,7 @@ Frontend Developer with **3+ years of commercial experience** in website develop
 
 ### 📬 Connect with me
 
-Telegram - https://t.me/Artem063
+Telegram - https://t.me/Artem063 <br>
 Email - haykljnoun1@gmail.com
 
 ### Feel free to reach out regarding collaboration, and I’ll help turn your design into a fully functional interactive product! 😊
