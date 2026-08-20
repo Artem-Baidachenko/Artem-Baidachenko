@@ -1,7 +1,7 @@
 # Hi, My name is Artem Baidachenko 👋
 ### Front-end Developer | HTML, CSS, JavaScript, SCSS, Gulp, Vite
 
-Frontend Developer with **3+ years of commercial experience** in website development. I specialize in creating responsive, cross-browser interfaces based on designs. I have worked with modern build tools such as Gulp and Vite, I also have experience with WordPress.
+Frontend Developer with **3+ years of commercial experience** in website development. I specialize in creating responsive, cross-browser interfaces based on designs. I have worked with modern build tools such as Gulp, Webpack and Vite, I also have experience with WordPress.
 
 ### 🛠️ Tech Stack & Skills
 
