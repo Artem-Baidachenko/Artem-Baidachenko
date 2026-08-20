@@ -29,7 +29,7 @@ Frontend Developer with **3+ years of commercial experience** in website develop
 ### 🗣️ Languages
 
 - **Ukrainian** — Native
-- **Russian** — Native
+- **Russian** — Advanced
 - **English** — Basic
 
 ### 📬 Connect with me
