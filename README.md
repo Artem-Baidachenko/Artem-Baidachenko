@@ -18,7 +18,7 @@ Frontend Developer with **3+ years of commercial experience** in website develop
 **Frontend Developer | Freelance** *(2023 — Present)*
 - Developed and deployed **20+ web projects**, including high-converting landing pages, corporate websites, and e-commerce platforms.
 - Built pixel-perfect, responsive interfaces ensuring flawless performance across Chrome, Safari, Firefox, and Edge.
-- Streamlined development workflows using Gulp and Vite.
+- Streamlined development workflows using Gulp, Webpack and Vite.
 - Communicated directly with clients to gather technical requirements, estimate timelines, and deliver iterations based on feedback.
 
 ### 🎓 Education
