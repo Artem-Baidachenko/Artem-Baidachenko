@@ -35,6 +35,7 @@ Frontend Developer with **3+ years of commercial experience** in website develop
 ### 📬 Connect with me
 
 Telegram - https://t.me/Artem063 <br>
-Email - haykljnoun1@gmail.com
+Email - haykljnoun1@gmail.com <br>
+Linkedin - https://www.linkedin.com/in/artem-baidachenko-1553a142b/
 
 ### Feel free to reach out regarding collaboration, and I’ll help turn your design into a fully functional interactive product! 😊
