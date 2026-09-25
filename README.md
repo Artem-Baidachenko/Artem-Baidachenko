@@ -7,7 +7,7 @@ Frontend Developer with **3+ years of commercial experience** in website develop
 
 - **Languages:** HTML5, CSS3, JavaScript (ES6+)
 - **Styling & Layout:** BEM, SASS/SCSS, responsive & adaptive design (Desktop, Tablet, Mobile)
-- **CMS:** WordPress (custom theme development)
+- **CMS:** WordPress (layout and integration, development of custom themes)
 - **Build Tools:** Gulp, Webpack, Vite
 - **Version Control:** Git, GitHub
 - **Performance & Optimization:** Lazy loading, code splitting, asset optimization, Core Web Vitals
