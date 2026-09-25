@@ -41,4 +41,4 @@ Telegram - https://t.me/Artem063 <br>
 Email - haykljnoun1@gmail.com <br>
 Linkedin - https://www.linkedin.com/in/artem-baidachenko-1553a142b/
 
-### Feel free to reach out regarding collaboration, and I’ll help turn your design into a fully functional interactive product! 😊
+### 📩 Drop me a message to discuss your design and project requirements. Let’s collaborate and turn your static layout into a fully functional, interactive product! 😊
