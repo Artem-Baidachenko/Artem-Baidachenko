@@ -50,7 +50,7 @@ I developed corporate websites, an online store, and landing pages for desktop a
 **Key Processes and Technical Implementation:**
 
 🔹**Pixel-perfect and semantic layout:** Converted Figma design into structured HTML5, CSS3/SCSS, and JavaScript code, strictly adhering to the design grid, typography, and indentation.<br>
-🔹**“Mobile-First” responsiveness:** Implemented robust media queries to ensure flawless layout performance across various devices, with seamless adaptation even at a minimum screen width of 320 pixels.<br>
+🔹**Mobile-First responsiveness:** Implemented robust media queries to ensure flawless layout performance across various devices, with seamless adaptation even at a minimum screen width of 320 pixels.<br>
 🔹**Advanced layout architecture:** Used the BEM methodology and SCSS to create modular, clear, and highly scalable code structures for multi-page web platforms.<br>
 🔹**Dynamic functionality:** Created custom interactive components, AJAX contact forms, and modal windows using native JavaScript (ES6+).<br>
 🔹**Interactive elements:** Integrated and configured the Swiper.js slider library to create smooth, touch-responsive carousel components.<br>
