@@ -7,12 +7,12 @@ I am an experienced front-end developer with 3 years of experience, I am special
 
 I help UX/UI designers, digital agencies, and startups bring their ideas to life with clean code, animations, and meticulous attention to detail.
 
-### 🏢 Industries I work with:
-I build fast, responsive, and high-performing websites for:
-🔹 SaaS companies & Startups
-🔹 UX/UI designers
-🔹 B2B businesses
-🔹 E-commerce projects & Landing pages
+### 🏢 Industries I work with:<br>
+I build fast, responsive, and high-performing websites for: <br>
+🔹 SaaS companies & Startups<br>
+🔹 UX/UI designers<br>
+🔹 B2B businesses<br>
+🔹 E-commerce projects & Landing pages<br>
 
 ### 💼 Why clients choose to work with me:
 
