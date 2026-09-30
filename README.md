@@ -32,30 +32,30 @@ I build fast, responsive, and high-performing websites for: <br>
 
 ### 💼 Work Experience
 
-**Figma to HTML Specialist / Freelance** *(Mar 2026 — Present)*
+## Figma to HTML Specialist / Freelance *(Mar 2026 — Present)*
 
 I convert UI/UX designs from Figma, Adobe XD, Pixso, and Photoshop into clean, semantic, and modern code that works flawlessly on all devices and in all browsers.
 
-### Key responsibilities and achievements:
+**Key responsibilities and achievements:**
 
-🔹Pixel-Perfect & Responsive Development: Created cross-browser responsive layouts using HTML5, CSS3/SCSS (BEM), and JavaScript (ES6+) that deliver seamless performance in Chrome, Safari, Firefox, and Edge.
-🔹Performance Optimization: Increased website loading speed and increased Google PageSpeed Insights ratings with lazy loading, code splitting, and asset optimization.
-🔹Modern Build and SVG Tools: Simplified development workflows with Gulp, Webpack, and Vite, and integrated optimized SVG sprites and icon fonts.
-🔹Client collaboration: Direct communication with clients to gather technical requirements, estimate timelines, and deliver the final result.
+🔹Pixel-Perfect & Responsive Development: Created cross-browser responsive layouts using HTML5, CSS3/SCSS (BEM), and JavaScript (ES6+) that deliver seamless performance in Chrome, Safari, Firefox, and Edge.<br>
+🔹Performance Optimization: Increased website loading speed and increased Google PageSpeed Insights ratings with lazy loading, code splitting, and asset optimization.<br>
+🔹Modern Build and SVG Tools: Simplified development workflows with Gulp, Webpack, and Vite, and integrated optimized SVG sprites and icon fonts.<br>
+🔹Client collaboration: Direct communication with clients to gather technical requirements, estimate timelines, and deliver the final result.<br>
 
-**Frontend Developer / Freelance(Web Studio)** *(Aug 2023 – Mar 2026)*
+## Frontend Developer / Freelance(Web Studio) *(Aug 2023 – Mar 2026)*
 
 I developed corporate websites, an online store, and landing pages for desktop and mobile devices based on the design provided in Figma. I delivered a clear, thoroughly tested, and implementation-ready product to the client.
 
-### Key Processes and Technical Implementation:
+**Key Processes and Technical Implementation:**
 
-🔹Pixel-perfect and semantic layout: Converted Figma design into structured HTML5, CSS3/SCSS, and JavaScript code, strictly adhering to the design grid, typography, and indentation.
-🔹“Mobile-First” responsiveness: Implemented robust media queries to ensure flawless layout performance across various devices, with seamless adaptation even at a minimum screen width of 320 pixels.
-🔹Advanced layout architecture: Used the BEM methodology and SCSS to create modular, clear, and highly scalable code structures for multi-page web platforms.
-🔹Dynamic functionality: Created custom interactive components, AJAX contact forms, and modal windows using native JavaScript (ES6+).
-🔹Interactive elements: Integrated and configured the Swiper.js slider library to create smooth, touch-responsive carousel components.
-🔹Performance optimization: Compressed and optimized images and resources to ensure fast loading times and improve the overall user experience (UX).
-🔹Quality assurance and cross-browser testing: Conducted thorough testing across various browsers (Chrome, Safari, Firefox, Edge) and on physical devices.
+🔹Pixel-perfect and semantic layout: Converted Figma design into structured HTML5, CSS3/SCSS, and JavaScript code, strictly adhering to the design grid, typography, and indentation.<br>
+🔹“Mobile-First” responsiveness: Implemented robust media queries to ensure flawless layout performance across various devices, with seamless adaptation even at a minimum screen width of 320 pixels.<br>
+🔹Advanced layout architecture: Used the BEM methodology and SCSS to create modular, clear, and highly scalable code structures for multi-page web platforms.<br>
+🔹Dynamic functionality: Created custom interactive components, AJAX contact forms, and modal windows using native JavaScript (ES6+).<br>
+🔹Interactive elements: Integrated and configured the Swiper.js slider library to create smooth, touch-responsive carousel components.<br>
+🔹Performance optimization: Compressed and optimized images and resources to ensure fast loading times and improve the overall user experience (UX).<br>
+🔹Quality assurance and cross-browser testing: Conducted thorough testing across various browsers (Chrome, Safari, Firefox, Edge) and on physical devices.<br>
 🔹Identified and fixed layout issues to ensure a flawless, error-free deployment.
 
 ### 🎓 Education
