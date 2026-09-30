@@ -16,11 +16,11 @@ I build fast, responsive, and high-performing websites for: <br>
 
 ### 💼 Why clients choose to work with me:<br>
 
-⚡ Full Adaptability: Flawless layouts tailored for all screen sizes, from 320px mobile devices up to 4K displays<br>
-⚡ SEO & Accessibility: Proper heading hierarchy, optimized metadata, and clean code that search engines love.<br>
-⚡ Cross-Browser Consistency: Rigorous testing across Chrome, Safari, Firefox, and Edge<br>
-⚡ Performance Optimization: Compressed and optimized images and resources to provide fast download times and improve the overall user experience (UX).<br>
-⚡ Reliability: Clear communication, strict adherence to project requirements, and reliable post-delivery support with bug fixing<br>
+⚡ **Full Adaptability:** Flawless layouts tailored for all screen sizes, from 320px mobile devices up to 4K displays<br>
+⚡ **SEO & Accessibility:** Proper heading hierarchy, optimized metadata, and clean code that search engines love.<br>
+⚡ **Cross-Browser Consistency:** Rigorous testing across Chrome, Safari, Firefox, and Edge<br>
+⚡ **Performance Optimization:** Compressed and optimized images and resources to provide fast download times and improve the overall user experience (UX).<br>
+⚡ **Reliability:** Clear communication, strict adherence to project requirements, and reliable post-delivery support with bug fixing<br>
 
 ### 🛠️ TECH STACK & EXPERTISE:<br>
 ✔️ **Core Front-End:** HTML5, CSS3 / SASS / SCSS, JavaScript.<br>
@@ -38,10 +38,10 @@ I convert UI/UX designs from Figma, Adobe XD, Pixso, and Photoshop into clean, s
 
 **Key responsibilities and achievements:**
 
-🔹Pixel-Perfect & Responsive Development: Created cross-browser responsive layouts using HTML5, CSS3/SCSS (BEM), and JavaScript (ES6+) that deliver seamless performance in Chrome, Safari, Firefox, and Edge.<br>
-🔹Performance Optimization: Increased website loading speed and increased Google PageSpeed Insights ratings with lazy loading, code splitting, and asset optimization.<br>
-🔹Modern Build and SVG Tools: Simplified development workflows with Gulp, Webpack, and Vite, and integrated optimized SVG sprites and icon fonts.<br>
-🔹Client collaboration: Direct communication with clients to gather technical requirements, estimate timelines, and deliver the final result.<br>
+🔹**Pixel-Perfect & Responsive Development:** Created cross-browser responsive layouts using HTML5, CSS3/SCSS (BEM), and JavaScript (ES6+) that deliver seamless performance in Chrome, Safari, Firefox, and Edge.<br>
+🔹**Performance Optimization:** Increased website loading speed and increased Google PageSpeed Insights ratings with lazy loading, code splitting, and asset optimization.<br>
+🔹**Modern Build and SVG Tools:** Simplified development workflows with Gulp, Webpack, and Vite, and integrated optimized SVG sprites and icon fonts.<br>
+🔹**Client collaboration:** Direct communication with clients to gather technical requirements, estimate timelines, and deliver the final result.<br>
 
 ## Frontend Developer / Freelance(Web Studio) *(Aug 2023 – Mar 2026)*
 
@@ -49,13 +49,13 @@ I developed corporate websites, an online store, and landing pages for desktop a
 
 **Key Processes and Technical Implementation:**
 
-🔹Pixel-perfect and semantic layout: Converted Figma design into structured HTML5, CSS3/SCSS, and JavaScript code, strictly adhering to the design grid, typography, and indentation.<br>
-🔹“Mobile-First” responsiveness: Implemented robust media queries to ensure flawless layout performance across various devices, with seamless adaptation even at a minimum screen width of 320 pixels.<br>
-🔹Advanced layout architecture: Used the BEM methodology and SCSS to create modular, clear, and highly scalable code structures for multi-page web platforms.<br>
-🔹Dynamic functionality: Created custom interactive components, AJAX contact forms, and modal windows using native JavaScript (ES6+).<br>
-🔹Interactive elements: Integrated and configured the Swiper.js slider library to create smooth, touch-responsive carousel components.<br>
-🔹Performance optimization: Compressed and optimized images and resources to ensure fast loading times and improve the overall user experience (UX).<br>
-🔹Quality assurance and cross-browser testing: Conducted thorough testing across various browsers (Chrome, Safari, Firefox, Edge) and on physical devices.<br>
+🔹**Pixel-perfect and semantic layout:** Converted Figma design into structured HTML5, CSS3/SCSS, and JavaScript code, strictly adhering to the design grid, typography, and indentation.<br>
+🔹**“Mobile-First” responsiveness:** Implemented robust media queries to ensure flawless layout performance across various devices, with seamless adaptation even at a minimum screen width of 320 pixels.<br>
+🔹**Advanced layout architecture:** Used the BEM methodology and SCSS to create modular, clear, and highly scalable code structures for multi-page web platforms.<br>
+🔹**Dynamic functionality:** Created custom interactive components, AJAX contact forms, and modal windows using native JavaScript (ES6+).<br>
+🔹**Interactive elements:** Integrated and configured the Swiper.js slider library to create smooth, touch-responsive carousel components.<br>
+🔹**Performance optimization:** Compressed and optimized images and resources to ensure fast loading times and improve the overall user experience (UX).<br>
+🔹**Quality assurance and cross-browser testing:** Conducted thorough testing across various browsers (Chrome, Safari, Firefox, Edge) and on physical devices.<br>
 🔹Identified and fixed layout issues to ensure a flawless, error-free deployment.
 
 ### 🎓 Education
@@ -71,8 +71,8 @@ I developed corporate websites, an online store, and landing pages for desktop a
 
 ### 📬 Connect with me
 
-Telegram - https://t.me/Artem063 <br>
-Email - haykljnoun1@gmail.com <br>
-Linkedin - https://www.linkedin.com/in/artem-baidachenko-1553a142b/
+**Telegram** - https://t.me/Artem063 <br>
+**Email** - haykljnoun1@gmail.com <br>
+**Linkedin** - https://www.linkedin.com/in/artem-baidachenko-1553a142b/
 
 ### 📩 Send me a message to discuss your design and project requirements. Let's work together and turn your static design into a fully-fledged interactive product!😊
