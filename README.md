@@ -14,21 +14,21 @@ I build fast, responsive, and high-performing websites for: <br>
 🔹 B2B businesses<br>
 🔹 E-commerce projects & Landing pages<br>
 
-### 💼 Why clients choose to work with me:
+### 💼 Why clients choose to work with me:<br>
 
-⚡ Full Adaptability: Flawless layouts tailored for all screen sizes, from 320px mobile devices up to 4K displays
-⚡ SEO & Accessibility: Proper heading hierarchy, optimized metadata, and clean code that search engines love.
-⚡ Cross-Browser Consistency: Rigorous testing across Chrome, Safari, Firefox, and Edge
-⚡ Performance Optimization: Compressed and optimized images and resources to provide fast download times and improve the overall user experience (UX).
-⚡ Reliability: Clear communication, strict adherence to project requirements, and reliable post-delivery support with bug fixing
+⚡ Full Adaptability: Flawless layouts tailored for all screen sizes, from 320px mobile devices up to 4K displays<br>
+⚡ SEO & Accessibility: Proper heading hierarchy, optimized metadata, and clean code that search engines love.<br>
+⚡ Cross-Browser Consistency: Rigorous testing across Chrome, Safari, Firefox, and Edge<br>
+⚡ Performance Optimization: Compressed and optimized images and resources to provide fast download times and improve the overall user experience (UX).<br>
+⚡ Reliability: Clear communication, strict adherence to project requirements, and reliable post-delivery support with bug fixing<br>
 
-### 🛠️ TECH STACK & EXPERTISE:
-✔️ **Core Front-End:** HTML5, CSS3 / SASS / SCSS, JavaScript.
-✔️ **Figma to Code:** Pixel-perfect, fully responsive, and cross-browser interfaces from Figma, Adobe XD and Pixso.
-✔️ **Animations:** Smooth scroll-based animations, parallax effects, and micro-interactions using GSAP & ScrollTrigger, CSS keyframes.
-✔️ **Methodologies & Standards:** BEM methodology, Semantic Web, Cross-Browser Compatibility
-✔️ **Performance & Speed:** Optimizing assets, lazy loading, and code-splitting to ensure high Google PageSpeed scores.
-✔️ **Modern Tooling:** Vite, Gulp, Webpack, Git/GitHub, and SVG sprites.
+### 🛠️ TECH STACK & EXPERTISE:<br>
+✔️ **Core Front-End:** HTML5, CSS3 / SASS / SCSS, JavaScript.<br>
+✔️ **Figma to Code:** Pixel-perfect, fully responsive, and cross-browser interfaces from Figma, Adobe XD and Pixso.<br>
+✔️ **Animations:** Smooth scroll-based animations, parallax effects, and micro-interactions using GSAP & ScrollTrigger, CSS keyframes.<br>
+✔️ **Methodologies & Standards:** BEM methodology, Semantic Web, Cross-Browser Compatibility<br>
+✔️ **Performance & Speed:** Optimizing assets, lazy loading, and code-splitting to ensure high Google PageSpeed scores.<br>
+✔️ **Modern Tooling:** Vite, Gulp, Webpack, Git/GitHub, and SVG sprites.<br>
 
 ### 💼 Work Experience
 
